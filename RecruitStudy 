@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <title>Recruit Study </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href = "RecruitStudy.css" type = "text/css" rel= "stylesheet">
+</head>
+<body>
+
+<h1>Recruit</h1>
+<p> Choose the study that you'd like to check on the status of recruitment </p>
+<div class = "container">
+<div class = "study1"> 
+	<div class= "title" > DMZ Autism Study  <br> <center> </div>
+	<div class ="name"> 100 Potential Participants </center> </div>
+	<div class = "message"> 65 - Yes <br> 25 - No <br> 20 - Pending </div>
+	<div class = "more"> More… </div>
+</div>
+
+<div class = "study1 study2" > 
+	<div class = "title"> DMZ Autism Study <br> <center> </div>
+	<div class = "name"> 100 Potential Participants </center></div>
+	<div class = "message"> 65 - Yes <br> 25 - No <br> 20 - Pending </div>
+	<div class = "more"> More… </div>
+</div>
+ 
+<div class = "study1 study2 study3">
+	<div class = "title"> DMZ Autism Study <br> <center> </div>
+	<div class = "name"> 100 Potential Participants </center></div>
+ 	<div class = "message"> Messages pending… </div>
+	<div class = "more"> More… </div>
+</div>
+</div>
+<h2><font size = "2">Start a new study… </font></h2>
+<button type = "submit" > START </button>
+</body>
+</html>
